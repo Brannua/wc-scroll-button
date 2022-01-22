@@ -1,6 +1,6 @@
 # web-component-scroll-button
 
-[![npm](https://img.shields.io/npm/v/wc-scroll-button)](https://www.npmjs.com/package/wc-scroll-button) [![](https://img.shields.io/npm/l/wc-scroll-button)](https://www.npmjs.com/package/wc-scroll-button)
+[![npm](https://img.shields.io/npm/v/wc-scroll-button)](https://www.npmjs.com/package/wc-scroll-button)
 
 - [demo](http://liupj.top/wc-scroll-button)
 
