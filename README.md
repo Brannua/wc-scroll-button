@@ -4,9 +4,9 @@
 
 > A web-component for quickly locating to the top or bottom of a page.
 
-![image-20220122183140250](https://gitee.com/pj-l/imgs-1/raw/master/screenShot/image-20220122183140250.png)
-
 > [live-demo](http://liupj.top/wc-scroll-button)
+
+![image-20220122183140250](https://gitee.com/pj-l/imgs-1/raw/master/screenShot/image-20220122183140250.png)
 
 ## Usage
 
