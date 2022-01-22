@@ -1,6 +1,10 @@
 # web-component-scroll-button
 
+> A web-component for quickly locating to the top or bottom of a page.
+
 [![npm](https://img.shields.io/npm/v/wc-scroll-button)](https://www.npmjs.com/package/wc-scroll-button)
+
+![image-20220122183140250](https://gitee.com/pj-l/imgs-1/raw/master/screenShot/image-20220122183140250.png)
 
 - [demo](http://liupj.top/wc-scroll-button)
 
