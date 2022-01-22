@@ -1,0 +1,22 @@
+{
+  "name": "wc-scroll-button",
+  "version": "0.0.1",
+  "description": "A web-component for quickly locating to the top or bottom of a page",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brannua/wc-scroll-button.git"
+  },
+  "keywords": [
+    "web-component",
+    "scroll-button"
+  ],
+  "author": "brannua <374453156@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Brannua/wc-scroll-button/issues"
+  },
+  "homepage": "https://github.com/Brannua/wc-scroll-button"
+}
