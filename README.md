@@ -6,7 +6,7 @@
 
 > [live-demo](http://liupj.top/wc-scroll-button)
 
-![image-20220122183140250](https://gitee.com/pj-l/imgs-1/raw/master/screenShot/image-20220122183140250.png)
+![image-20220122183140250](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/old-from-gitee-2022-03-25/by-picgo/image-20220122183140250.png)
 
 ## Usage
 
