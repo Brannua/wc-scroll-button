@@ -4,7 +4,7 @@
 
 > A web-component for quickly locating to the top or bottom of a page.
 
-> [live-demo](http://liupj.top/wc-scroll-button)
+> [live-demo](ttps://liupj.top/wc-scroll-button/)
 
 ![image-20220122183140250](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220122183140250.png)
 
