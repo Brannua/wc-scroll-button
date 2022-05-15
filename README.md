@@ -2,11 +2,9 @@
 
 [![npm](https://img.shields.io/npm/v/wc-scroll-button)](https://www.npmjs.com/package/wc-scroll-button)
 
-> A web-component for quickly locating to the top or bottom of a page.
+> A web-component for quickly locating to the top or bottom of a page.(a live demo is under below, just click the picture !)
 
-> [live-demo](https://liupj.top/wc-scroll-button/)
-
-![image-20220122183140250](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220122183140250.png)
+[![image-20220122183140250](https://aliyun-oss-lpj.oss-cn-qingdao.aliyuncs.com/images/by-picgo/image-20220122183140250.png)](https://liupj.top/wc-scroll-button/)
 
 ## Usage
 
