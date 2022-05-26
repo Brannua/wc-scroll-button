@@ -5,16 +5,36 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+  <title>wc-scroll-button</title>
+  <style>
+    .title,
+    .footer {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  </style>
 </head>
 
 <body>
 
-  <!-- This div is used to create scroll bars to test the component in action. -->
+  <div class="title" style="height: 80vh;">
+    <h1>A scroll-button web-component is on the right of current webPage.</h1>
+  </div>
+
+  <div class="footer" style="position: fixed; width: 100vw; bottom: 1vh;">
+    <div>
+      Repository: <a href="https://github.com/Brannua/wc-scroll-button">wc-scroll-button</a>
+    </div>
+    <div>
+      © 2022 <a href="https://github.com/brannua">lpj</a>
+    </div>
+  </div>
+
   <div style="height: 2000px;"></div>
 
   <wc-scroll-button/>
-
   <script src="./index.js" type="module"></script>
 
 </body>
